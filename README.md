@@ -1,6 +1,5 @@
 # imersao_dev_alura
 
-Obs. Cada commit foi referente a 1 dia do projeto.
 ## #1 - Início do Projeto 
 
 Iinstalacao do Node.js e iniciando a criação do projeto com NPM. No final, gerar API Key no Google AI Studio, para a API do Gemini.
